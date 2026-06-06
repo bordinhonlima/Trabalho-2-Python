@@ -1,0 +1,75 @@
+{
+  "metodologia": "Como o mapeamento real docente↔disciplina não foi disponibilizado pela coordenação, modelou-se a atribuição por ÁREA DE CONHECIMENTO. Cada professor leciona disciplinas afins em períodos distintos, o que ativa efetivamente a restrição de conflito de horário no Algoritmo Genético.",
+  "professores": [
+    {
+      "id": "PROF_MAT_01",
+      "nome": "Prof. Carlos Silva",
+      "area": "Matemática",
+      "disciplinas": ["MA1FM", "MA3AL", "MA4PE"],
+      "periodos_atuacao": [1, 3, 4]
+    },
+    {
+      "id": "PROF_MAT_02",
+      "nome": "Profa. Ana Souza",
+      "area": "Matemática / Lógica",
+      "disciplinas": ["MA1LM", "MA2MA", "MA3CA"],
+      "periodos_atuacao": [1, 2, 3]
+    },
+    {
+      "id": "PROF_PROG_01",
+      "nome": "Prof. Bruno Oliveira",
+      "area": "Algoritmos e Programação",
+      "disciplinas": ["CC1AED1", "CC2AED2", "CC4PO"],
+      "periodos_atuacao": [1, 2, 4]
+    },
+    {
+      "id": "PROF_PROG_02",
+      "nome": "Profa. Daniela Costa",
+      "area": "Programação Orientada a Objetos / Estruturas Avançadas",
+      "disciplinas": ["CC2POO", "CC3AED3"],
+      "periodos_atuacao": [2, 3]
+    },
+    {
+      "id": "PROF_HW_01",
+      "nome": "Prof. Eduardo Lima",
+      "area": "Hardware e Arquitetura",
+      "disciplinas": ["CC2CLD", "CC3AOC"],
+      "periodos_atuacao": [2, 3]
+    },
+    {
+      "id": "PROF_HW_02",
+      "nome": "Profa. Fernanda Mello",
+      "area": "Sistemas e Redes",
+      "disciplinas": ["CC4RC", "CC4SO"],
+      "periodos_atuacao": [4]
+    },
+    {
+      "id": "PROF_BD_01",
+      "nome": "Prof. Gabriel Rocha",
+      "area": "Banco de Dados",
+      "disciplinas": ["CC1MBD", "CC4LBD"],
+      "periodos_atuacao": [1, 4]
+    },
+    {
+      "id": "PROF_ES_01",
+      "nome": "Profa. Helena Dias",
+      "area": "Engenharia de Software",
+      "disciplinas": ["CC2ER", "CC3ES"],
+      "periodos_atuacao": [2, 3]
+    },
+    {
+      "id": "PROF_GEN_01",
+      "nome": "Prof. Igor Martins",
+      "area": "Computação Geral / IHC / Projetos Integradores",
+      "disciplinas": ["CC1ICC", "CC3PI1", "CC4IHC"],
+      "periodos_atuacao": [1, 3, 4]
+    },
+    {
+      "id": "PROF_HUM_01",
+      "nome": "Profa. Júlia Alves",
+      "area": "Formação Humanística",
+      "disciplinas": ["HU1LA", "OPHE"],
+      "periodos_atuacao": [1, 2]
+    }
+  ]
+}

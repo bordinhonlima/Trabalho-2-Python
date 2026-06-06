@@ -1,0 +1,57 @@
+{
+  "fonte": "Matriz Curricular 11 - Bacharelado em Ciência da Computação 2 - UTFPR Santa Helena",
+  "observacoes": [
+    "ENADE.I do 1º período foi excluído (0 aulas semanais).",
+    "Optativas humanísticas do 2º período foram representadas pela escolha padrão OPHE (Empreendedorismo, 2 aulas/sem).",
+    "Pré-requisitos relevantes para os períodos 1-4 estão preservados.",
+    "Total de aulas semanais por período condiciona o nº de slots ocupados (sobre 40 disponíveis = 8 slots × 5 dias)."
+  ],
+  "periodos": {
+    "1": [
+      {"codigo": "CC1AED1", "nome": "Algoritmos e Estrutura de Dados I", "aulas_semanais": 6, "carga_horaria": 90, "pre_requisitos": [], "professor_id": "PROF_PROG_01"},
+      {"codigo": "CC1ICC",  "nome": "Introdução à Ciência da Computação", "aulas_semanais": 3, "carga_horaria": 45, "pre_requisitos": [], "professor_id": "PROF_GEN_01"},
+      {"codigo": "CC1MBD",  "nome": "Modelagem de Banco de Dados", "aulas_semanais": 4, "carga_horaria": 60, "pre_requisitos": [], "professor_id": "PROF_BD_01"},
+      {"codigo": "HU1LA",   "nome": "Linguagem Acadêmica", "aulas_semanais": 3, "carga_horaria": 45, "pre_requisitos": [], "professor_id": "PROF_HUM_01"},
+      {"codigo": "MA1FM",   "nome": "Fundamentos de Matemática", "aulas_semanais": 4, "carga_horaria": 60, "pre_requisitos": [], "professor_id": "PROF_MAT_01"},
+      {"codigo": "MA1LM",   "nome": "Lógica Matemática", "aulas_semanais": 3, "carga_horaria": 45, "pre_requisitos": [], "professor_id": "PROF_MAT_02"}
+    ],
+    "2": [
+      {"codigo": "CC2AED2", "nome": "Algoritmos e Estrutura de Dados II", "aulas_semanais": 4, "carga_horaria": 60, "pre_requisitos": ["CC1AED1"], "professor_id": "PROF_PROG_01"},
+      {"codigo": "CC2CLD",  "nome": "Circuitos Lógicos Digitais", "aulas_semanais": 4, "carga_horaria": 60, "pre_requisitos": ["MA1LM"], "professor_id": "PROF_HW_01"},
+      {"codigo": "CC2ER",   "nome": "Engenharia de Requisitos", "aulas_semanais": 4, "carga_horaria": 60, "pre_requisitos": [], "professor_id": "PROF_ES_01"},
+      {"codigo": "CC2POO",  "nome": "Programação Orientada a Objetos", "aulas_semanais": 4, "carga_horaria": 60, "pre_requisitos": ["CC1AED1"], "professor_id": "PROF_PROG_02"},
+      {"codigo": "MA2MA",   "nome": "Matemática Aplicada", "aulas_semanais": 4, "carga_horaria": 60, "pre_requisitos": [], "professor_id": "PROF_MAT_02"},
+      {"codigo": "OPHE",    "nome": "Empreendedorismo (Optativa Humanística)", "aulas_semanais": 2, "carga_horaria": 30, "pre_requisitos": [], "professor_id": "PROF_HUM_01"}
+    ],
+    "3": [
+      {"codigo": "CC3AED3", "nome": "Algoritmos e Estrutura de Dados III", "aulas_semanais": 4, "carga_horaria": 60, "pre_requisitos": ["CC2AED2"], "professor_id": "PROF_PROG_02"},
+      {"codigo": "CC3AOC",  "nome": "Arquitetura e Organização de Computadores", "aulas_semanais": 6, "carga_horaria": 90, "pre_requisitos": [], "professor_id": "PROF_HW_01"},
+      {"codigo": "CC3ES",   "nome": "Engenharia de Software", "aulas_semanais": 4, "carga_horaria": 60, "pre_requisitos": ["CC1AED1", "CC2ER"], "professor_id": "PROF_ES_01"},
+      {"codigo": "CC3PI1",  "nome": "Projeto Integrador I: Computação e Educação", "aulas_semanais": 12, "carga_horaria": 180, "pre_requisitos": [], "professor_id": "PROF_GEN_01"},
+      {"codigo": "MA3AL",   "nome": "Álgebra Linear", "aulas_semanais": 3, "carga_horaria": 45, "pre_requisitos": [], "professor_id": "PROF_MAT_01"},
+      {"codigo": "MA3CA",   "nome": "Cálculo Aplicado", "aulas_semanais": 4, "carga_horaria": 60, "pre_requisitos": [], "professor_id": "PROF_MAT_02"}
+    ],
+    "4": [
+      {"codigo": "CC4IHC",  "nome": "Interação Humano Computador", "aulas_semanais": 4, "carga_horaria": 60, "pre_requisitos": [], "professor_id": "PROF_GEN_01"},
+      {"codigo": "CC4LBD",  "nome": "Laboratório de Banco de Dados", "aulas_semanais": 4, "carga_horaria": 60, "pre_requisitos": ["CC1MBD"], "professor_id": "PROF_BD_01"},
+      {"codigo": "CC4PO",   "nome": "Pesquisa e Ordenação", "aulas_semanais": 4, "carga_horaria": 60, "pre_requisitos": ["CC3AED3", "MA1FM"], "professor_id": "PROF_PROG_01"},
+      {"codigo": "CC4RC",   "nome": "Redes de Computadores", "aulas_semanais": 4, "carga_horaria": 60, "pre_requisitos": ["CC3AOC"], "professor_id": "PROF_HW_02"},
+      {"codigo": "CC4SO",   "nome": "Sistemas Operacionais", "aulas_semanais": 4, "carga_horaria": 60, "pre_requisitos": ["CC3AOC"], "professor_id": "PROF_HW_02"},
+      {"codigo": "MA4PE",   "nome": "Probabilidade e Estatística", "aulas_semanais": 4, "carga_horaria": 60, "pre_requisitos": [], "professor_id": "PROF_MAT_01"}
+    ]
+  },
+  "horarios": {
+    "dias": ["Segunda", "Terça", "Quarta", "Quinta", "Sexta"],
+    "slots_por_dia": [
+      {"id": 0, "rotulo": "07:30-08:20", "turno": "manhã"},
+      {"id": 1, "rotulo": "08:20-09:10", "turno": "manhã"},
+      {"id": 2, "rotulo": "09:20-10:10", "turno": "manhã"},
+      {"id": 3, "rotulo": "10:10-11:00", "turno": "manhã"},
+      {"id": 4, "rotulo": "13:30-14:20", "turno": "tarde"},
+      {"id": 5, "rotulo": "14:20-15:10", "turno": "tarde"},
+      {"id": 6, "rotulo": "15:20-16:10", "turno": "tarde"},
+      {"id": 7, "rotulo": "16:10-17:00", "turno": "tarde"}
+    ],
+    "total_slots_semana": 40
+  }
+}

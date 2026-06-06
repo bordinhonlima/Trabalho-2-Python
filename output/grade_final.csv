@@ -1,0 +1,103 @@
+periodo,dia,horario,codigo,disciplina,professor
+1,Segunda,08:20-09:10,CC1AED1,Algoritmos e Estrutura de Dados I,Prof. Bruno Oliveira
+1,Segunda,10:10-11:00,CC1MBD,Modelagem de Banco de Dados,Prof. Gabriel Rocha
+1,Segunda,15:20-16:10,CC1AED1,Algoritmos e Estrutura de Dados I,Prof. Bruno Oliveira
+1,Segunda,16:10-17:00,MA1LM,Lógica Matemática,Profa. Ana Souza
+1,Terça,07:30-08:20,MA1FM,Fundamentos de Matemática,Prof. Carlos Silva
+1,Terça,08:20-09:10,CC1ICC,Introdução à Ciência da Computação,Prof. Igor Martins
+1,Terça,10:10-11:00,CC1ICC,Introdução à Ciência da Computação,Prof. Igor Martins
+1,Terça,14:20-15:10,MA1LM,Lógica Matemática,Profa. Ana Souza
+1,Terça,16:10-17:00,CC1AED1,Algoritmos e Estrutura de Dados I,Prof. Bruno Oliveira
+1,Quarta,07:30-08:20,HU1LA,Linguagem Acadêmica,Profa. Júlia Alves
+1,Quarta,08:20-09:10,MA1FM,Fundamentos de Matemática,Prof. Carlos Silva
+1,Quarta,09:20-10:10,CC1ICC,Introdução à Ciência da Computação,Prof. Igor Martins
+1,Quarta,14:20-15:10,CC1MBD,Modelagem de Banco de Dados,Prof. Gabriel Rocha
+1,Quarta,15:20-16:10,MA1LM,Lógica Matemática,Profa. Ana Souza
+1,Quarta,16:10-17:00,CC1MBD,Modelagem de Banco de Dados,Prof. Gabriel Rocha
+1,Quinta,07:30-08:20,CC1MBD,Modelagem de Banco de Dados,Prof. Gabriel Rocha
+1,Quinta,13:30-14:20,CC1AED1,Algoritmos e Estrutura de Dados I,Prof. Bruno Oliveira
+1,Quinta,14:20-15:10,MA1FM,Fundamentos de Matemática,Prof. Carlos Silva
+1,Quinta,15:20-16:10,HU1LA,Linguagem Acadêmica,Profa. Júlia Alves
+1,Quinta,16:10-17:00,CC1AED1,Algoritmos e Estrutura de Dados I,Prof. Bruno Oliveira
+1,Sexta,07:30-08:20,HU1LA,Linguagem Acadêmica,Profa. Júlia Alves
+1,Sexta,13:30-14:20,CC1AED1,Algoritmos e Estrutura de Dados I,Prof. Bruno Oliveira
+1,Sexta,16:10-17:00,MA1FM,Fundamentos de Matemática,Prof. Carlos Silva
+2,Segunda,07:30-08:20,CC2ER,Engenharia de Requisitos,Profa. Helena Dias
+2,Segunda,10:10-11:00,CC2AED2,Algoritmos e Estrutura de Dados II,Prof. Bruno Oliveira
+2,Segunda,15:20-16:10,MA2MA,Matemática Aplicada,Profa. Ana Souza
+2,Terça,07:30-08:20,OPHE,Empreendedorismo (Optativa Humanística),Profa. Júlia Alves
+2,Terça,09:20-10:10,CC2CLD,Circuitos Lógicos Digitais,Prof. Eduardo Lima
+2,Terça,10:10-11:00,CC2AED2,Algoritmos e Estrutura de Dados II,Prof. Bruno Oliveira
+2,Terça,13:30-14:20,CC2ER,Engenharia de Requisitos,Profa. Helena Dias
+2,Terça,14:20-15:10,CC2POO,Programação Orientada a Objetos,Profa. Daniela Costa
+2,Terça,15:20-16:10,CC2ER,Engenharia de Requisitos,Profa. Helena Dias
+2,Quarta,13:30-14:20,CC2AED2,Algoritmos e Estrutura de Dados II,Prof. Bruno Oliveira
+2,Quarta,14:20-15:10,CC2CLD,Circuitos Lógicos Digitais,Prof. Eduardo Lima
+2,Quarta,16:10-17:00,OPHE,Empreendedorismo (Optativa Humanística),Profa. Júlia Alves
+2,Quinta,09:20-10:10,CC2POO,Programação Orientada a Objetos,Profa. Daniela Costa
+2,Quinta,10:10-11:00,MA2MA,Matemática Aplicada,Profa. Ana Souza
+2,Quinta,14:20-15:10,CC2POO,Programação Orientada a Objetos,Profa. Daniela Costa
+2,Quinta,15:20-16:10,MA2MA,Matemática Aplicada,Profa. Ana Souza
+2,Quinta,16:10-17:00,MA2MA,Matemática Aplicada,Profa. Ana Souza
+2,Sexta,07:30-08:20,CC2CLD,Circuitos Lógicos Digitais,Prof. Eduardo Lima
+2,Sexta,08:20-09:10,CC2POO,Programação Orientada a Objetos,Profa. Daniela Costa
+2,Sexta,09:20-10:10,CC2ER,Engenharia de Requisitos,Profa. Helena Dias
+2,Sexta,10:10-11:00,CC2AED2,Algoritmos e Estrutura de Dados II,Prof. Bruno Oliveira
+2,Sexta,16:10-17:00,CC2CLD,Circuitos Lógicos Digitais,Prof. Eduardo Lima
+3,Segunda,08:20-09:10,CC3PI1,Projeto Integrador I: Computação e Educação,Prof. Igor Martins
+3,Segunda,09:20-10:10,MA3AL,Álgebra Linear,Prof. Carlos Silva
+3,Segunda,10:10-11:00,CC3AOC,Arquitetura e Organização de Computadores,Prof. Eduardo Lima
+3,Segunda,14:20-15:10,CC3PI1,Projeto Integrador I: Computação e Educação,Prof. Igor Martins
+3,Segunda,15:20-16:10,CC3PI1,Projeto Integrador I: Computação e Educação,Prof. Igor Martins
+3,Segunda,16:10-17:00,CC3PI1,Projeto Integrador I: Computação e Educação,Prof. Igor Martins
+3,Terça,07:30-08:20,CC3AED3,Algoritmos e Estrutura de Dados III,Profa. Daniela Costa
+3,Terça,08:20-09:10,CC3ES,Engenharia de Software,Profa. Helena Dias
+3,Terça,09:20-10:10,MA3AL,Álgebra Linear,Prof. Carlos Silva
+3,Terça,10:10-11:00,MA3CA,Cálculo Aplicado,Profa. Ana Souza
+3,Terça,14:20-15:10,CC3AOC,Arquitetura e Organização de Computadores,Prof. Eduardo Lima
+3,Terça,15:20-16:10,CC3AED3,Algoritmos e Estrutura de Dados III,Profa. Daniela Costa
+3,Terça,16:10-17:00,CC3AED3,Algoritmos e Estrutura de Dados III,Profa. Daniela Costa
+3,Quarta,07:30-08:20,MA3CA,Cálculo Aplicado,Profa. Ana Souza
+3,Quarta,08:20-09:10,CC3AED3,Algoritmos e Estrutura de Dados III,Profa. Daniela Costa
+3,Quarta,09:20-10:10,CC3AOC,Arquitetura e Organização de Computadores,Prof. Eduardo Lima
+3,Quarta,10:10-11:00,MA3CA,Cálculo Aplicado,Profa. Ana Souza
+3,Quarta,14:20-15:10,MA3CA,Cálculo Aplicado,Profa. Ana Souza
+3,Quarta,16:10-17:00,CC3AOC,Arquitetura e Organização de Computadores,Prof. Eduardo Lima
+3,Quinta,07:30-08:20,CC3PI1,Projeto Integrador I: Computação e Educação,Prof. Igor Martins
+3,Quinta,08:20-09:10,MA3AL,Álgebra Linear,Prof. Carlos Silva
+3,Quinta,09:20-10:10,CC3AOC,Arquitetura e Organização de Computadores,Prof. Eduardo Lima
+3,Quinta,10:10-11:00,CC3PI1,Projeto Integrador I: Computação e Educação,Prof. Igor Martins
+3,Quinta,13:30-14:20,CC3PI1,Projeto Integrador I: Computação e Educação,Prof. Igor Martins
+3,Quinta,14:20-15:10,CC3PI1,Projeto Integrador I: Computação e Educação,Prof. Igor Martins
+3,Quinta,16:10-17:00,CC3AOC,Arquitetura e Organização de Computadores,Prof. Eduardo Lima
+3,Sexta,07:30-08:20,CC3PI1,Projeto Integrador I: Computação e Educação,Prof. Igor Martins
+3,Sexta,08:20-09:10,CC3ES,Engenharia de Software,Profa. Helena Dias
+3,Sexta,09:20-10:10,CC3PI1,Projeto Integrador I: Computação e Educação,Prof. Igor Martins
+3,Sexta,10:10-11:00,CC3ES,Engenharia de Software,Profa. Helena Dias
+3,Sexta,13:30-14:20,CC3PI1,Projeto Integrador I: Computação e Educação,Prof. Igor Martins
+3,Sexta,14:20-15:10,CC3ES,Engenharia de Software,Profa. Helena Dias
+3,Sexta,15:20-16:10,CC3PI1,Projeto Integrador I: Computação e Educação,Prof. Igor Martins
+4,Segunda,07:30-08:20,CC4IHC,Interação Humano Computador,Prof. Igor Martins
+4,Segunda,08:20-09:10,CC4LBD,Laboratório de Banco de Dados,Prof. Gabriel Rocha
+4,Segunda,09:20-10:10,CC4RC,Redes de Computadores,Profa. Fernanda Mello
+4,Segunda,13:30-14:20,CC4SO,Sistemas Operacionais,Profa. Fernanda Mello
+4,Terça,09:20-10:10,CC4PO,Pesquisa e Ordenação,Prof. Bruno Oliveira
+4,Terça,10:10-11:00,MA4PE,Probabilidade e Estatística,Prof. Carlos Silva
+4,Terça,13:30-14:20,CC4IHC,Interação Humano Computador,Prof. Igor Martins
+4,Terça,14:20-15:10,CC4PO,Pesquisa e Ordenação,Prof. Bruno Oliveira
+4,Terça,15:20-16:10,CC4IHC,Interação Humano Computador,Prof. Igor Martins
+4,Quarta,07:30-08:20,CC4LBD,Laboratório de Banco de Dados,Prof. Gabriel Rocha
+4,Quarta,08:20-09:10,CC4SO,Sistemas Operacionais,Profa. Fernanda Mello
+4,Quarta,09:20-10:10,CC4PO,Pesquisa e Ordenação,Prof. Bruno Oliveira
+4,Quarta,15:20-16:10,MA4PE,Probabilidade e Estatística,Prof. Carlos Silva
+4,Quarta,16:10-17:00,MA4PE,Probabilidade e Estatística,Prof. Carlos Silva
+4,Quinta,13:30-14:20,CC4LBD,Laboratório de Banco de Dados,Prof. Gabriel Rocha
+4,Quinta,14:20-15:10,CC4SO,Sistemas Operacionais,Profa. Fernanda Mello
+4,Quinta,15:20-16:10,CC4IHC,Interação Humano Computador,Prof. Igor Martins
+4,Quinta,16:10-17:00,MA4PE,Probabilidade e Estatística,Prof. Carlos Silva
+4,Sexta,09:20-10:10,CC4RC,Redes de Computadores,Profa. Fernanda Mello
+4,Sexta,10:10-11:00,CC4RC,Redes de Computadores,Profa. Fernanda Mello
+4,Sexta,13:30-14:20,CC4RC,Redes de Computadores,Profa. Fernanda Mello
+4,Sexta,14:20-15:10,CC4PO,Pesquisa e Ordenação,Prof. Bruno Oliveira
+4,Sexta,15:20-16:10,CC4LBD,Laboratório de Banco de Dados,Prof. Gabriel Rocha
+4,Sexta,16:10-17:00,CC4SO,Sistemas Operacionais,Profa. Fernanda Mello
